@@ -99,4 +99,4 @@ plt.close(fig)
 
 # Thông tin người tạo: thay hai chỗ bên dưới trước khi nộp bài
 st.markdown("---")
-st.caption("Người tạo: [Nhập họ tên của anh] | MSSV: [Nhập mã sinh viên của anh]")
+st.caption("Người tạo: [Đoàn Thái Nam ]")
