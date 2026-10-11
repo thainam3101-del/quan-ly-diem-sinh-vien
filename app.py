@@ -14,13 +14,13 @@ st.write("Ứng dụng quản lý, tra cứu và thống kê điểm của 10 si
 # Dữ liệu mẫu: anh có thể thay bằng dữ liệu thực tế của lớp
 data = {
     "Ho_ten": [
-        "Nguyen Van An", "Tran Thi Binh",
-        "Le Van Cuong", "Pham Thi Dung",
-        "Hoang Van Em", "Vu Thi Giang",
-        "Do Van Hung", "Bui Thi Lan",
-        "Dang Van Minh", "Ngo Thi Hoa"
+        "Nguyen Huy Hoang", "Tran Thanh Binh",
+        "Le Van minh", "Pham Thi Hong Nhung",
+        "Hoang Van Toan", "Vu Thi Giang",
+        "Do Van Hung", "Le Thi Lan",
+        "Nguyen Van Minh", "Ngo Van Nhan"
     ],
-    "Chuyen_can": [9, 8, 7, 10, 6, 9, 5, 8, 7, 9],
+    "Chuyen_can": [8, 9, 7, 10, 6, 9, 5, 8, 7, 9],
     "Giua_ky": [8, 7, 6, 9, 5, 8, 4, 7, 6, 9],
     "Cuoi_ky": [9, 8, 7, 9, 6, 8, 5, 8, 7, 10]
 }
@@ -99,4 +99,4 @@ plt.close(fig)
 
 # Thông tin người tạo: thay hai chỗ bên dưới trước khi nộp bài
 st.markdown("---")
-st.caption("Người tạo: [Đoàn Thái Nam ]")
+st.caption("Người tạo: Đoàn Thái Nam ")
